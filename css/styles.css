@@ -1,0 +1,15 @@
+body {color: #5f5f5f; background: #474747 url('../images/background.png') repeat;}
+img {text-decoration: none; outline: none;}
+input {outline: none;}
+#copyright {
+	font-size: 12px;
+}
+#contact {background: #fff; border: 1px solid #e7e7e7; margin: 30px auto 1em; text-align: left; width: 400px; padding: 2em; margin-bottom: 30px; -moz-border-radius: 8px;}
+#contact #error {background: #f9efef url('../images/cross.png') no-repeat 9px 8px; width: auto; height: auto; padding: 9px 34px; color: #494949; font: 11px arial; border: 1px #e9c6c6 solid; margin-bottom: 20px;}
+#contact #success {background: #DFF2BF url('../images/tick.png') no-repeat 9px 8px; width: auto; height: 13px; padding: 9px 34px; color: #4F8A10; font: 11px arial; border: 1px #4F8A10 solid;}
+#contact .clearfix:after {content: "."; display: block; height: 0; clear: both; visibility: hidden;}
+#contact hr {border: 0px; background: none; border-bottom: 1px dotted #aaa; height: 0px; margin: 1em 0;}
+#contact label {display: block; margin-bottom: 4px; color: #5f5f5f;}
+#contact input[type=text], #contact input[type=password], #contact textarea {color: #333; margin-bottom: 7px; background: #fff; border: 1px solid #ccc; padding: 5px;}
+#contact input[type=submit] {background: #fff url('../images/twitter-trans.png') no-repeat; width: 92px; height: 35px; outline: none; border: none;}
+#contact a {color: #5f5f5f; font: inherit; text-decoration: none;}
